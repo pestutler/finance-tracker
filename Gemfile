@@ -9,6 +9,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem 'stock_quote'
+gem 'iex-ruby-client'
 # Use sqlite3 as the database for Active Record
 # gem 'sqlite3'
 # gem 'pg'
